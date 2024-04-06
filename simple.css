@@ -1,0 +1,36 @@
+body {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
+  background-color: #1f2039;
+}
+
+
+.date{
+		 overflow:hidden;
+		 display:block;
+		 float:left;
+		 margin-top:10px;
+		 margin-left:0px;
+		 width:157px;
+		 height:112px;
+	 }
+
+
+
+.BTC{
+		overflow:hidden;
+		 display:block;
+		 float:left;
+		 margin-top:0px;
+		 margin-left:60px;
+	
+	
+}
+
+.meteo{
+		overflow:hidden;
+		 display:block;
+		 float:left;
+		 margin-top:25px;
+		 margin-left:20px;
+}
